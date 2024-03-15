@@ -375,6 +375,16 @@ MonoBehaviour:
   - {fileID: 87913}
   - {fileID: 1925057172}
   - {fileID: 2086443145}
+  weaponSlots:
+  - {fileID: 3462363170755495424}
+  - {fileID: 1242150811}
+  - {fileID: 1735527530}
+  - {fileID: 1224940926}
+  - {fileID: 984360613}
+  - {fileID: 1708724736}
+  - {fileID: 681627621}
+  - {fileID: 719007980}
+  - {fileID: 1382136169}
 --- !u!4 &220514265
 Transform:
   m_ObjectHideFlags: 0
@@ -534,6 +544,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (6)
@@ -632,6 +670,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 681627619}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &681627621 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 681627619}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &719007978
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -640,6 +689,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (7)
@@ -738,6 +815,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 719007978}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &719007980 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 719007978}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &737570835 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6665551982013408890, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
@@ -1112,6 +1200,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (4)
@@ -1210,6 +1326,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 984360611}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &984360613 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 984360611}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1059053770
 GameObject:
   m_ObjectHideFlags: 0
@@ -1482,6 +1609,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (3)
@@ -1580,6 +1735,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 1224940924}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1224940926 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 1224940924}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1242150809
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1588,6 +1754,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (1)
@@ -1686,6 +1880,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 1242150809}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1242150811 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 1242150809}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1258506882 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6665551982013408890, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
@@ -1916,6 +2121,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (8)
@@ -2014,6 +2247,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 1382136167}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1382136169 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 1382136167}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1383127879
 GameObject:
   m_ObjectHideFlags: 0
@@ -2460,6 +2704,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (5)
@@ -2558,6 +2830,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 1708724734}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1708724736 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 1708724734}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1728442215
 GameObject:
   m_ObjectHideFlags: 0
@@ -2641,6 +2924,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot (2)
@@ -2739,6 +3050,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 1735527528}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1735527530 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 1735527528}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1884758462 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7599948271084416269, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
@@ -2811,7 +3133,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2031660891
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2995,6 +3317,34 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1059053771}
     m_Modifications:
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 892837565}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: deleteButton
+      value: 
+      objectReference: {fileID: 1342228231}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionName
+      value: 
+      objectReference: {fileID: 2120439533}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionImage
+      value: 
+      objectReference: {fileID: 1728442217}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionPrice
+      value: 
+      objectReference: {fileID: 1371653870}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionWindow
+      value: 
+      objectReference: {fileID: 2031660890}
+    - target: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+      propertyPath: inspectionDescription
+      value: 
+      objectReference: {fileID: 1627381652}
     - target: {fileID: 3152525274389993980, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
       propertyPath: m_Name
       value: ItemSlot
@@ -3093,6 +3443,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5758721909329714869, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
   m_PrefabInstance: {fileID: 3462363170755495422}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &3462363170755495424 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 270681577624113263, guid: e2c7b1b28e263ca46872030f3b35b357, type: 3}
+  m_PrefabInstance: {fileID: 3462363170755495422}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5160f4efb1f48674db051e36a95c2ac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
