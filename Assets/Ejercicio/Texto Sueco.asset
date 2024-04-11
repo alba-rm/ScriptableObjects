@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01eb27d6d0eb62b49adf73a02e40aaa7, type: 3}
+  m_Name: Texto Sueco
+  m_EditorClassIdentifier: 
+  text1: Skuggornas uppvaknande
+  text2: Torsdag
+  text3: "Skuggornas stig \xE4r en fruktad och g\xE5tfull plats, d\xE4r det s\xE4gs
+    att de m\xF6rkaste och mest kraftfulla hemligheterna v\xE4ntar p\xE5 de tillr\xE4ckligt
+    modiga f\xF6r att utforska den. V\xE5r huvudperson, den unga trollkvinnan Lyra,
+    best\xE4mmer sig f\xF6r att utmana sin m\xE4stares varningar och ger sig ut p\xE5
+    denna f\xF6rbjudna stig i s\xF6kandet efter kunskap och makt. Under sin resa
+    m\xF6ter Lyra \xF6vernaturliga utmaningar som s\xE4tter hennes magi och beslutsamhet
+    p\xE5 prov."
+  text4: "Al slutet av Skuggornas stig uppt\xE4cker Lyra att den verkliga kraften
+    inte finns i m\xF6rkret, utan i hennes f\xF6rm\xE5ga att bem\xE4stra sina egna
+    inre skuggor. Hon \xE5terv\xE4nder hem med en ny f\xF6rst\xE5else f\xF6r magin
+    och en f\xF6rnyad beslutsamhet att m\xF6ta alla utmaningar som st\xE4lls p\xE5
+    hennes v\xE4g. Hennes historia blir en legend bland trollkarlar, och p\xE5minner
+    om att den st\xF6rsta triumfen \xE4r m\xE4sterskapet \xF6ver sig sj\xE4lv."

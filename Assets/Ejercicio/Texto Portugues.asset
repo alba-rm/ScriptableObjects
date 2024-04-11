@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01eb27d6d0eb62b49adf73a02e40aaa7, type: 3}
+  m_Name: Texto Portugues
+  m_EditorClassIdentifier: 
+  text1: O Despertar das Sombras
+  text2: quinta-feira
+  text3: "El caminho das sombras \xE9 um lugar temido e enigm\xE1tico, onde se diz
+    que os segredos mais sombrios e poderosos aguardam aqueles corajosos o suficiente
+    para explor\xE1-lo. Nossa protagonista, a jovem feiticeira Lyra, decide desafiar
+    os avisos de seu mestre e se aventurar por este caminho proibido em busca de
+    conhecimento e poder. Ao longo de sua jornada, Lyra enfrenta desafios sobrenaturais
+    que testam sua magia e sua determina\xE7\xE3o."
+  text4: "No final do caminho das sombras, Lyra descobre que o verdadeiro poder n\xE3o
+    reside na escurid\xE3o, mas sim na sua capacidade de dominar as suas pr\xF3prias
+    sombras internas. Ela retorna para casa com um novo entendimento da magia e uma
+    determina\xE7\xE3o renovada para enfrentar qualquer desafio que surja em seu
+    caminho. Sua hist\xF3ria torna-se uma lenda entre os magos, lembrando que o maior
+    triunfo \xE9 o dom\xEDnio de si mesmo."

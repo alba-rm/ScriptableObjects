@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01eb27d6d0eb62b49adf73a02e40aaa7, type: 3}
+  m_Name: Texto Espanol
+  m_EditorClassIdentifier: 
+  text1: El despertar de las sombras
+  text2: Jueves
+  text3: "El sendero de las sombras es un lugar temido y enigm\xE1tico, donde se
+    dice que los secretos m\xE1s oscuros y poderosos aguardan a aquellos lo suficientemente
+    valientes para explorarlo. Nuestra protagonista, la joven hechicera Lyra, decide
+    desafiar las advertencias de su maestro y se aventura por este sendero prohibido
+    en busca de conocimiento y poder. A lo largo de su traves\xEDa, Lyra enfrenta
+    desaf\xEDos sobrenaturales que ponen a prueba su magia y su determinaci\xF3n."
+  text4: "Al final del sendero de las sombras, Lyra descubre que el verdadero poder
+    no reside en la oscuridad, sino en su capacidad para dominar sus propias sombras
+    internas. Regresa a casa con un nuevo entendimiento de la magia y una determinaci\xF3n
+    renovada para enfrentar cualquier desaf\xEDo que se interponga en su camino.
+    Su historia se convierte en una leyenda entre los magos, recordando que el mayor
+    triunfo es el dominio de uno mismo."
