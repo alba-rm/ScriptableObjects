@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PickableItem : MonoBehaviour
 {
+    //Examen
     public ScriptableItem item;
     private SpriteRenderer spriteRenderer;
     // Start is called before the first frame update

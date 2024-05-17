@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Examen
 public class InventoryManager : MonoBehaviour
 {
     public static InventoryManager instance;
+    //Nombre del script
     public ScriptableItem[] weapons;
     public Text[] weaponsNames;
     public Image[] weaponsSprites;
@@ -26,8 +27,8 @@ public class InventoryManager : MonoBehaviour
                 weaponsNames[i].text = item.itemName;
                 weaponsSprites[i].sprite = item.itemSprite;
 
-                weaponSlots[i].slotItem = item;
-                weaponSlots[i].slotNumber = i;
+                /*weaponSlots[i].slotItem = item;
+                weaponSlots[i].slotNumber = i;*/
 
                 return;
             }

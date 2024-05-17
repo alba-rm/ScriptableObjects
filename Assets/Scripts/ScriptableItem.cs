@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Examen
 [CreateAssetMenu(fileName = "New Item", menuName = "Items/New Item")]
 public class ScriptableItem : ScriptableObject
 {
